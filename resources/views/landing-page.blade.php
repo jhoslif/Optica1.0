@@ -48,4 +48,13 @@
          </img>
      </div>
     </div>
+    <!--footer-->
+    <div>
+        <div><!--left-->
+
+        </div>
+        <div><!--rigth-->
+
+        </div>
+    </div>
 </x-guest-layout>
